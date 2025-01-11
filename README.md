@@ -26,4 +26,4 @@ html,css,c,py,java,mysql,cpp,js,redhat,linkedin
 
 ## Connect with Me
 
-https://www.linkedin.com/in/om-koradiya-a891a622a/
+https://www.linkedin.com/in/om-koradiya-a891a622a/ 
